@@ -32,7 +32,6 @@ The goal of this project was to scrape smartphone data from the website [Smartpr
 
 This process was automated using a script (`smartprix.py`), which navigates the website and extracts the necessary data. The **ChromeDriver** was used to control the browser through Selenium.
 
-Here's an enhanced version of the **Data Cleaning** section, where I aim to include all the detailed steps and actions taken during the data cleaning process:
 <br>
 
 ### Data Cleaning
